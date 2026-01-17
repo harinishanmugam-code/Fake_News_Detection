@@ -2,4 +2,5 @@
 The dataset is not included in this repository due to size constraints.
 
 Source: Kaggle / provided dataset  
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=Fake.csv
 Preprocessing steps are documented in the notebook.
